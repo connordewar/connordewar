@@ -1,8 +1,4 @@
 ## Connor Dewar
-I am a apprentice Plumber,Gasfitter and Drainlayer working mostly in the civil drainlaying sector.
-I have a strong interest in engineering, the PGD trade and software development and am experimenting
-with developing tools for tradesmen. I also use this github account for general experimenting and
-code backup and learning professional workflows in github and related software.
 
 ### Pipeline Design Tool
 ---
